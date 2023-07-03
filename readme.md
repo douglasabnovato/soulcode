@@ -1,12 +1,12 @@
 ## SoulCode Online
 
-O conteúdo do [SoulCode Online](https://soulcode-online-free.teachable.com/) está separado em quatro títulos muito interessantes subdivididos em tópicos importantes.
+O conteúdo do [SoulCode Online](https://soulcode-online-free.teachable.com/) está separado em quatro títulos muito interessantes subdivididos em subtópicos importantes.
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="SoulCode" title="#SoulCode" src="./.github/SoulCode-1.jpg" width="600px"> 
 </p> 
 
-A seguir temos os tópicos apresentados no  [Introdução da SoulCode](https://soulcode.com/processo-seletivo/candidato/minicurso/La2WdRZCvY0uHPv0Jv86) está separado em quatro títulos muito interessantes subdivididos em tópicos importantes.
+A seguir temos os tópicos apresentados no  [Introdução da SoulCode](https://soulcode.com/processo-seletivo/candidato/minicurso/La2WdRZCvY0uHPv0Jv86) para garantir um bom aprendizado do conteúdo principal.
 
 ### Introdução
 
